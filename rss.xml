@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[NoodleDoodles]]></title>
-        <description><![CDATA[NoodleDoodles]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Noodle Doodles]]></title>
+        <description><![CDATA[Noodle Doodles]]></description>
+        <link>https://thegrid.ai/noodledoodles/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 18 Mar 2016 23:53:04 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 19 Mar 2016 00:01:57 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/noodledoodles/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <link>undefined6e601a0e-84d0-406d-961d-d59e6dade114/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3c8ba916-3d56-4165-8473-b566a531366c.png">]]></description>
+            <link>https://thegrid.ai/noodledoodles/6691e627-b642-4f43-adb4-e4c904e20c0f/index.html</link>
+            <guid isPermaLink="false">6691e627-b642-4f43-adb4-e4c904e20c0f</guid>
+            <pubDate>Sat, 19 Mar 2016 00:01:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://thegrid.ai/noodledoodles/6e601a0e-84d0-406d-961d-d59e6dade114/index.html</link>
             <guid isPermaLink="false">6e601a0e-84d0-406d-961d-d59e6dade114</guid>
             <pubDate>Fri, 18 Mar 2016 23:52:58 GMT</pubDate>
         </item>
