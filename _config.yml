@@ -1,6 +1,6 @@
 name: NoodleDoodles
 favicon: null
-layout_spectrum: 0.84147
+layout_spectrum: 0.56003
 typography_spectrum: 0.35793
 title: Noodle Doodles
 cta:
@@ -25,5 +25,5 @@ color:
   brandStrength: 0.9653955777175725
   lightness: 0.31058374093845487
   saturation: 0.9759964398108423
-  rhythmicContrast: 0.052908188197761774
+  rhythmicContrast: 0
 purpose: []
